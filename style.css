@@ -1,0 +1,47 @@
+strong{
+    font-size: 30px;
+  
+}
+body{
+    background-color:black;
+    color:rgb(128, 89, 89);
+    font-color: white; 
+}
+h2{
+    font-family: serif 20px;
+    
+}
+ul{
+    list-style-type: none;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+    }    
+    li {
+        float: left;
+    }    
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }    
+    Change the link color to #111 (black) on hover
+    li a:hover {
+        background-color: #111;
+    }
+    p{
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+   } 
+
+
+}
